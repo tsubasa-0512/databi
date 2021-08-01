@@ -28612,10 +28612,10 @@ if (false) {} else {
 
 /***/ }),
 
-/***/ "./resources/ts/app.tsx":
-/*!******************************!*\
-  !*** ./resources/ts/app.tsx ***!
-  \******************************/
+/***/ "./resources/ts/index.tsx":
+/*!********************************!*\
+  !*** ./resources/ts/index.tsx ***!
+  \********************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -28639,13 +28639,13 @@ if (document.getElementById('app')) {
 /***/ }),
 
 /***/ 0:
-/*!**************************************************************!*\
-  !*** multi ./resources/ts/app.tsx ./resources/sass/app.scss ***!
-  \**************************************************************/
+/*!****************************************************************!*\
+  !*** multi ./resources/ts/index.tsx ./resources/sass/app.scss ***!
+  \****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /var/www/resources/ts/app.tsx */"./resources/ts/app.tsx");
+__webpack_require__(/*! /var/www/resources/ts/index.tsx */"./resources/ts/index.tsx");
 module.exports = __webpack_require__(/*! /var/www/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
